@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
+
 package controllers;
 
 import common.Algorithsm;
@@ -13,7 +10,7 @@ import views.Menu;
  * @author Lenovo
  */
 public class SortingProgramming extends Menu<String>{
-    static String[] mc = {"Linear Search", "Binary Search", "Exit"};
+    static String[] mc = {"Buddle Sort", "Quick Sort", "Exit"};
 
     protected Library library;
     protected Algorithsm algorithm;
